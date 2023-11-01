@@ -1,4 +1,4 @@
-"Hello, world"! I'm Denise, and I hold a degree in Social Communication - Advertising and Marketing. My initial contact with programming involved HTML, Flash, CSS, and a bit of Java, along with the use of editing software. Currently, I'm interested in data analysis using the Python language. I hope that my contributions are relevant.
+"Hello, world"! I'm Denise, and I hold a degree in Social Communication - Advertising and Marketing. My initial contact with programming involved HTML, Flash, CSS, and a bit of JavaScript, along with the use of editing software. Currently, I'm interested in data analysis using the Python language. I hope that my contributions are relevant.
 
 How to reach me:
 
