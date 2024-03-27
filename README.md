@@ -1,4 +1,4 @@
-"Hello, world"! I'm Denise, and I hold a degree in Social Communication - Advertising and Marketing. My initial contact with programming involved HTML, CSS, and a bit of JavaScript, along with the use of editing software. Currently, I'm interested in CyberSecurity, with a focus on the role as a PenTester. I hope that my contributions are relevant.
+"Hello, world"! I'm Denise, and I hold a degree in Social Communication - Advertising and Marketing. My initial contact with programming involved a litlle bit of python and JavaScript, along with the use of editing software. Currently, I'm interested in CyberSecurity, with a focus on the role as a PenTester. I hope that my contributions are relevant.
 
 How to reach me:
 
